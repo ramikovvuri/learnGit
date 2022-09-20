@@ -1,0 +1,8 @@
+Assume that this repository is completly working and tested 
+So we will be pushing this version to main
+
+As of now firstBranch has a featureOne which is not a part of main
+
+So moving forward while merging firstBranch ->main firstBranch has to get all the latest changes from main and if in case there is no merge conflict then merge firstBranch to main
+
+
